@@ -1,3 +1,6 @@
+renderservercursocodespace/demo/User.class
 renderservercursocodespace/demo/Greeting.class
-renderservercursocodespace/demo/GreetingController.class
 renderservercursocodespace/demo/DemoApplication.class
+renderservercursocodespace/demo/UserRepository.class
+renderservercursocodespace/demo/MainController.class
+renderservercursocodespace/demo/GreetingController.class
