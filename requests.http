@@ -1,0 +1,27 @@
+GET http://localhost:8080/ 
+
+###
+
+GET https://pgidatchristianpancichdb.onrender.com/
+
+###
+
+
+POST https://pgidatchristianpancichdb.onrender.com/api/curso/agregar 
+Content-Type: application/x-www-form-urlencoded
+
+nombre=DSW1
+&creditos=4
+
+###
+
+GET https://pgidatchristianpancichdb.onrender.com/api/curso/listar
+
+
+
+###
+
+DELETE https://pgidatchristianpancichdb.onrender.com/api/curso/eliminar
+Content-Type: application/x-www-form-urlencoded
+
+id=1
